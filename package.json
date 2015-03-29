@@ -1,0 +1,18 @@
+{
+  "name": "language-sake",
+  "version": "0.0.1",
+  "description": "Sake language syntax highlighting",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://github.com/erlimar/language-sake",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erlimar/language-sake.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erlimar/language-sake/issues"
+  }
+}
