@@ -1,5 +1,8 @@
 # language-sake
 
-Sake (https://github.com/sakeproject/sake) Language Syntax for ATOM
+[Sake][1] Language Syntax for ATOM.
 
-Originally converted from the Razor (SublimeText syntax)[https://github.com/anurse/Sublime-Sake].
+Originally converted from the [SublimeText syntax][2].
+
+[1]: https://github.com/anurse/Sublime-Sake
+[2]: https://github.com/anurse/Sublime-Sake
